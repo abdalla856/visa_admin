@@ -1,0 +1,12 @@
+.num_cards{
+    justify-content: center !important;
+    align-items: flex-end !important;
+    margin-bottom: 30px;
+    
+}
+
+.panel_head{
+    margin-left:20px;
+    margin-bottom:10px;
+    font-size: 21px;
+}
